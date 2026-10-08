@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" width="1200" alt="Nisar Muhammad — Enterprise IT Infrastructure, Cloud Engineering, Cybersecurity &amp; Automation, Software Development" />
+  <picture>
+    <source media="(max-width: 640px)" srcset="assets/banner-mobile.svg" />
+    <img src="assets/banner.svg" width="1200" alt="Nisar Muhammad — Enterprise IT Infrastructure, Cloud Engineering, Cybersecurity, Automation, Software Development" />
+  </picture>
 </p>
 
 **Senior IT Infrastructure & Systems Administrator | Cloud & Microsoft 365 Engineer | Full-Stack Developer**
@@ -10,10 +13,9 @@ I bring **20+ years in IT**, including **13+ years supporting enterprise infrast
 
 ## About Me
 
-- Design and administer enterprise infrastructure across Windows Server, Active Directory, Hyper-V, and virtualization.
-- Work across Microsoft Azure, Microsoft 365, and Entra ID, connecting cloud services with identity administration.
-- Support enterprise networking, cybersecurity, backup, disaster recovery, and infrastructure monitoring.
-- Build PowerShell automation and business applications, bringing an operator's understanding of reliability and support into software design.
+- Modernize enterprise infrastructure across Windows Server, Active Directory, Hyper-V, networking, backup, and disaster recovery.
+- Manage cloud and identity services with Microsoft Azure, Microsoft 365, and Entra ID, with a focus on security and dependable operations.
+- Design practical enterprise applications and PowerShell automation, connecting infrastructure experience with maintainable software and more efficient workflows.
 
 <img src="assets/section-divider.svg" width="1200" alt="" />
 
@@ -21,46 +23,46 @@ I bring **20+ years in IT**, including **13+ years supporting enterprise infrast
 
 ### Cloud & Identity
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-101D32?style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-101D32?style=flat-square) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-101D32?style=flat-square)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-101D32?style=for-the-badge) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-101D32?style=for-the-badge)
 
-Exchange Online · Active Directory · Group Policy
+Exchange Online · Microsoft Entra ID · Active Directory · Group Policy
 
 ### Infrastructure & Virtualization
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-101D32?style=flat-square) ![Hyper-V](https://img.shields.io/badge/Hyper--V-101D32?style=flat-square) ![Veeam Backup & Replication](https://img.shields.io/badge/Veeam%20Backup%20%26%20Replication-101D32?style=flat-square)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-101D32?style=for-the-badge) ![Hyper-V](https://img.shields.io/badge/Hyper--V-101D32?style=for-the-badge)
 
-Failover Clustering · Enterprise Storage
+Failover Clustering · Enterprise Storage · Veeam Backup & Replication
 
 ### Networking & Security
 
-![Cisco Networking](https://img.shields.io/badge/Cisco%20Networking-101D32?style=flat-square) ![Fortinet FortiGate](https://img.shields.io/badge/Fortinet%20FortiGate-101D32?style=flat-square) ![Identity Security](https://img.shields.io/badge/Identity%20Security-101D32?style=flat-square)
+![Cisco Networking](https://img.shields.io/badge/Cisco%20Networking-101D32?style=for-the-badge) ![Fortinet FortiGate](https://img.shields.io/badge/Fortinet%20FortiGate-101D32?style=for-the-badge)
 
-VLANs · Firewalls · MFA · Conditional Access
+VLANs · Firewalls · Identity Security · MFA · Conditional Access
 
 ### Software Development
 
-![C#](https://img.shields.io/badge/C%23-101D32?style=flat-square) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-101D32?style=flat-square) ![React](https://img.shields.io/badge/React-101D32?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-101D32?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-101D32?style=for-the-badge) ![React](https://img.shields.io/badge/React-101D32?style=for-the-badge)
 
-.NET · REST APIs · JavaScript · HTML · CSS
+C# · .NET · REST APIs · TypeScript · JavaScript · HTML · CSS
 
 ### Databases & Tools
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-101D32?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101D32?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-101D32?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101D32?style=for-the-badge) ![PowerShell](https://img.shields.io/badge/PowerShell-101D32?style=for-the-badge)
 
-Git · GitHub · Visual Studio · VS Code
+SQL Server · Git · GitHub · Visual Studio · VS Code
 
 ## Microsoft Certifications
 
 **Awarded certifications**
 
-| Certification | Exams passed | Status |
-| :--- | :--- | :--- |
-| [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) | AZ-104 | Awarded · Active |
-| Microsoft Certified: Windows Server Hybrid Administrator Associate | AZ-800 + AZ-801 | Awarded |
+| Certification | Exam record |
+| :--- | :--- |
+| **[Azure Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)**<br>Microsoft Certified · Awarded and active | AZ-104 passed |
+| **Windows Server Hybrid Administrator Associate**<br>Microsoft Certified · Awarded | AZ-800 + AZ-801 passed |
 
 **Passed exam**
 
-- **MS-102: Microsoft 365 Administrator** — Passed. The [Microsoft 365 Certified: Administrator Expert](https://learn.microsoft.com/en-us/credentials/certifications/m365-administrator-expert/) credential requires a qualifying prerequisite certification; award status is not claimed here.
+**MS-102 — Microsoft 365 Administrator** · Passed. The [Microsoft 365 Certified: Administrator Expert](https://learn.microsoft.com/en-us/credentials/certifications/m365-administrator-expert/) credential requires a qualifying prerequisite; its award status has not been confirmed.
 
 <!-- Owner-confirmed certification and exam status. No credential IDs or verification links are published. Preserve the Windows Server credential title as awarded, even if the current Microsoft path is renamed. -->
 
@@ -70,62 +72,86 @@ Git · GitHub · Visual Studio · VS Code
 
 ## Featured Projects
 
-### 01 / YouTube MP3 Downloader
+<table width="100%">
+<tr><td>
+<h3>01 — YouTube MP3 Downloader</h3>
+<p><strong>Public project</strong> · Windows desktop<br><sub>C# · .NET · WPF · Chrome companion extension</sub></p>
+<p>Batch audio downloads with one queue, up to five concurrent downloads, and a built-in MP3 player.</p>
+<p><a href="https://github.com/nisarnis-prog/youtube-mp3-downloader"><strong>Explore the repository →</strong></a> · <a href="https://github.com/nisarnis-prog/youtube-mp3-downloader#application-screenshots">More screenshots</a></p>
+</td></tr>
+</table>
 
-**Public repository · Windows desktop application**
+<p align="center">
+  <a href="https://github.com/nisarnis-prog/youtube-mp3-downloader"><img src="https://raw.githubusercontent.com/nisarnis-prog/youtube-mp3-downloader/main/Screenshots/DarkTheme.png" width="760" alt="Real YouTube MP3 Downloader application screenshot in dark mode" /></a>
+</p>
 
-A desktop audio downloader with multi-link batch downloads, queue management, up to five concurrent downloads, a built-in MP3 player, and an optional Chrome companion extension. Includes light and dark themes and configurable MP3 quality.
+<table width="100%">
+<tr><td>
+<h3>02 — Enterprise IT Asset Management Platform</h3>
+<p><strong>Private / internal case study</strong> · Asset lifecycle &amp; accountability</p>
+<p>Digital asset registration, assignment, and return with automated official handover and return reports.</p>
+<p><strong>Workflow:</strong> User signatures → IT verification → Management approval<br><strong>Control:</strong> Role-based access and lifecycle tracking</p>
+</td></tr>
+</table>
 
-[![Actual application screenshot showing the dark theme](https://raw.githubusercontent.com/nisarnis-prog/youtube-mp3-downloader/main/Screenshots/DarkTheme.png)](https://github.com/nisarnis-prog/youtube-mp3-downloader)
+<table width="100%">
+<tr><td>
+<h3>03 — Enterprise Infrastructure Monitoring</h3>
+<p><strong>Private / internal case study</strong> · Centralized operational visibility</p>
+<p>Server and network availability and performance monitoring, with CPU, memory, and storage visibility.</p>
+<p><strong>Operations:</strong> Automated incident alerts and recovery notifications</p>
+</td></tr>
+</table>
 
-[Explore the repository](https://github.com/nisarnis-prog/youtube-mp3-downloader) · [More application screenshots](https://github.com/nisarnis-prog/youtube-mp3-downloader#application-screenshots)
+<table width="100%">
+<tr><td>
+<h3>04 — Enterprise ERP Development</h3>
+<p><strong>Private / internal case study</strong> · Modular business applications</p>
+<p>Reusable components and modular architecture for CRM and HR workflows, with Finance, Procurement, Inventory, and Asset Management development.</p>
+<p><strong>Status:</strong> Ongoing development; module maturity varies.</p>
+</td></tr>
+</table>
 
-### 02 / Enterprise IT Asset Management Platform
-
-> **Private / internal case study · Asset accountability**
->
-> Asset registration and lifecycle management with digital assignment and return workflows. Automated official handover and return documents, signature collection, IT verification, management approval, and role-based access control support a traceable process.
-
-### 03 / Enterprise Infrastructure Monitoring Platform
-
-> **Private / internal case study · Operational visibility**
->
-> Centralized server and network device monitoring covering availability, performance, CPU, memory, and storage. Automated incident and recovery notifications support infrastructure operations.
-
-### 04 / Enterprise ERP Development
-
-> **Private / internal case study · Modular application design**
->
-> Experience designing business applications across CRM, HR, Finance, Procurement, Inventory, and Asset Management. Development is modular and ongoing; module maturity varies.
-
-### 05 / Automation and IT Solutions
-
-> **Private / internal case study · Practical workflow improvements**
->
-> PowerShell automation for identity lifecycle administration, reporting, and recurring operational workflows, connecting infrastructure knowledge with maintainable tools.
+<table width="100%">
+<tr><td>
+<h3>05 — IT Automation &amp; Solutions</h3>
+<p><strong>Private / internal case study</strong> · PowerShell &amp; workflow automation</p>
+<p>Identity lifecycle management, infrastructure reporting, and automation of recurring operational workflows.</p>
+<p><strong>Focus:</strong> Maintainable tools informed by enterprise operations</p>
+</td></tr>
+</table>
 
 <img src="assets/section-divider.svg" width="1200" alt="" />
 
 ## GitHub Statistics
 
-[![GitHub contribution activity summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisarnis-prog&theme=github_dark&title_color=22D3EE&text_color=F8FAFC&bg_color=0D1117&border_color=101D32&animation=none)](https://github.com/nisarnis-prog?tab=overview)
-
-[![Public GitHub repository statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nisarnis-prog&theme=github_dark&title_color=22D3EE&text_color=F8FAFC&bg_color=0D1117&border_color=101D32&animation=none)](https://github.com/nisarnis-prog?tab=repositories)
+<p align="center">
+  <a href="https://github.com/nisarnis-prog?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisarnis-prog&amp;theme=github_dark&amp;title_color=22D3EE&amp;text_color=F8FAFC&amp;bg_color=0D1117&amp;border_color=101D32&amp;animation=none" width="760" alt="GitHub public contribution activity summary" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/nisarnis-prog?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nisarnis-prog&amp;theme=github_dark&amp;title_color=22D3EE&amp;text_color=F8FAFC&amp;bg_color=0D1117&amp;border_color=101D32&amp;animation=none" width="380" alt="Public GitHub repository statistics" /></a>
+</p>
 
 <details>
-<summary>Programming languages in public repositories</summary>
+<summary>Languages in public repositories</summary>
 
-[![Languages by public repository count](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nisarnis-prog&theme=github_dark&title_color=22D3EE&text_color=F8FAFC&bg_color=0D1117&border_color=101D32&animation=none)](https://github.com/nisarnis-prog?tab=repositories)
+<p align="center">
+  <a href="https://github.com/nisarnis-prog?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nisarnis-prog&amp;theme=github_dark&amp;title_color=22D3EE&amp;text_color=F8FAFC&amp;bg_color=0D1117&amp;border_color=101D32&amp;animation=none" width="380" alt="Programming languages by public repository count" /></a>
+</p>
 
-Language distribution reflects a small public code sample and does not measure overall professional expertise.
+Language distribution reflects a small public code sample, not the breadth of my professional experience.
 
 </details>
 
-Cards are generated by an external service and may be cached or temporarily unavailable. View [contribution activity](https://github.com/nisarnis-prog?tab=overview) and [public repositories](https://github.com/nisarnis-prog?tab=repositories) directly on GitHub.
+Public contributions reflect only the work shared on GitHub; professional experience extends beyond these repositories.
+
+[View contributions on GitHub](https://github.com/nisarnis-prog?tab=overview) · [Browse public repositories](https://github.com/nisarnis-prog?tab=repositories)
+
+<sub>External cards may be cached or temporarily unavailable. Direct GitHub links remain available.</sub>
 
 ## Professional Links
 
-[GitHub / nisarnis-prog](https://github.com/nisarnis-prog)
+**[GitHub / nisarnis-prog →](https://github.com/nisarnis-prog)**
 
 <!-- TODO: LINKEDIN_URL — add only a verified public profile belonging to Nisar Muhammad. -->
 <!-- TODO: PORTFOLIO_URL — add only an owner-approved public website. -->
