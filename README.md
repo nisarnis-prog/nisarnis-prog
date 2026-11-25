@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="assets/banner-mobile.svg" />
-    <img src="assets/banner.svg" width="1200" alt="Nisar Muhammad — Enterprise IT Infrastructure, Cloud Engineering, Cybersecurity, Automation, Software Development" />
+    <source media="(max-width: 640px)" srcset="assets/portfolio/hero-mobile.svg" />
+    <img src="assets/portfolio/hero.svg" width="1200" alt="Nisar Muhammad — Enterprise IT Infrastructure, Cloud Engineering, Cybersecurity, Automation, Software Development" />
   </picture>
 </p>
 
@@ -69,6 +69,22 @@ SQL Server · Git · GitHub · Visual Studio · VS Code
 **Continuing professional development:** Ongoing learning in hybrid cloud, identity security, infrastructure automation, and modern .NET and React application development.
 
 <img src="assets/section-divider.svg" width="1200" alt="" />
+
+[![Automatic Printer Deployment / GPO](assets/portfolio/Automatic-Printer-Deployment-GPO.svg)](https://github.com/nisarnis-prog/Automatic-Printer-Deployment-GPO)
+
+[![Free Data Recovery Guides](assets/portfolio/Free-Data-Recovery-Guides.svg)](https://github.com/nisarnis-prog/Free-Data-Recovery-Guides)
+
+[![Computer Inventory Automation Toolkit](assets/portfolio/Computer-Inventory-Automation-Toolkit.svg)](https://github.com/nisarnis-prog/Computer-Inventory-Automation-Toolkit)
+
+[![Local Administrator GPO Deployment](assets/portfolio/Local-Admin-GPO-Deployment.svg)](https://github.com/nisarnis-prog/Local-Admin-GPO-Deployment)
+
+[![NTFS Permission Recovery Toolkit](assets/portfolio/NTFS-Permission-Recovery-Toolkit.svg)](https://github.com/nisarnis-prog/NTFS-Permission-Recovery-Toolkit)
+
+[![AD & Microsoft 365 User Onboarding](assets/portfolio/AD-M365-User-Onboarding-Toolkit.svg)](https://github.com/nisarnis-prog/AD-M365-User-Onboarding-Toolkit)
+
+[![YouTube MP3 Downloader](assets/portfolio/youtube-mp3-downloader.svg)](https://github.com/nisarnis-prog/youtube-mp3-downloader)
+
+[![Create Cinematic Reels With Codex](assets/portfolio/Create-Cinematic-Reels-With-Codex.svg)](https://github.com/nisarnis-prog/Create-Cinematic-Reels-With-Codex)
 
 ## Featured Projects
 
