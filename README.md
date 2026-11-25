@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="assets/portfolio/hero-mobile.svg" />
-    <img src="assets/portfolio/hero.svg" width="1200" alt="Nisar Muhammad — Enterprise IT Infrastructure, Cloud Engineering, Cybersecurity, Automation, Software Development" />
+    <source media="(max-width: 640px)" srcset="assets/phase2/hero-mobile.svg" />
+    <img src="assets/phase2/hero.svg" width="1200" alt="Nisar Muhammad — Enterprise IT Infrastructure, Cloud Engineering, Cybersecurity, Automation, Software Development" />
   </picture>
 </p>
 
@@ -11,15 +11,28 @@ I bring **20+ years in IT**, including **13+ years supporting enterprise infrast
 
 <sub>Professional positioning reflecting experience and areas of practice.</sub>
 
-## About Me
+## <img src="assets/phase2/section.svg" width="32" alt="" /> About Me
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/about-mobile.svg" />
+  <img src="assets/phase2/about.svg" width="1200" alt="Enterprise infrastructure modernization; cloud and identity management; enterprise applications and automation" />
+</picture>
 
 - Modernize enterprise infrastructure across Windows Server, Active Directory, Hyper-V, networking, backup, and disaster recovery.
 - Manage cloud and identity services with Microsoft Azure, Microsoft 365, and Entra ID, with a focus on security and dependable operations.
 - Design practical enterprise applications and PowerShell automation, connecting infrastructure experience with maintainable software and more efficient workflows.
 
-<img src="assets/section-divider.svg" width="1200" alt="" />
+<img src="assets/phase2/divider.svg" width="1200" alt="" />
 
-## Technology Stack
+## <img src="assets/phase2/section.svg" width="32" alt="" /> Technology Stack
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/technology-mobile.svg" />
+  <img src="assets/phase2/technology.svg" width="1200" alt="Technology Stack — Cloud &amp; Identity; Infrastructure &amp; Virtualization; Networking &amp; Security; Software Development; Databases &amp; Tools" />
+</picture>
+
+<details>
+<summary>Technology Stack — text reference</summary>
 
 ### Cloud & Identity
 
@@ -51,7 +64,22 @@ C# · .NET · REST APIs · TypeScript · JavaScript · HTML · CSS
 
 SQL Server · Git · GitHub · Visual Studio · VS Code
 
-## Microsoft Certifications
+</details>
+
+## <img src="assets/phase2/section.svg" width="32" alt="" /> Microsoft Certifications
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/certifications-mobile.svg" />
+  <img src="assets/phase2/certifications.svg" width="1200" alt="Awarded: Azure Administrator Associate — AZ-104; Windows Server Hybrid Administrator Associate — AZ-800 and AZ-801" />
+</picture>
+
+<p align="center"><picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/passed-exam-mobile.svg" />
+  <img src="assets/phase2/passed-exam.svg" width="480" alt="MS-102 — Microsoft 365 Administrator. Passed exam; Expert award status is not confirmed." />
+</picture></p>
+
+<details>
+<summary>Microsoft Certifications — text reference</summary>
 
 **Awarded certifications**
 
@@ -66,27 +94,45 @@ SQL Server · Git · GitHub · Visual Studio · VS Code
 
 <!-- Owner-confirmed certification and exam status. No credential IDs or verification links are published. Preserve the Windows Server credential title as awarded, even if the current Microsoft path is renamed. -->
 
+</details>
+
 **Continuing professional development:** Ongoing learning in hybrid cloud, identity security, infrastructure automation, and modern .NET and React application development.
 
-<img src="assets/section-divider.svg" width="1200" alt="" />
+<img src="assets/phase2/divider.svg" width="1200" alt="" />
 
-[![Automatic Printer Deployment / GPO](assets/portfolio/Automatic-Printer-Deployment-GPO.svg)](https://github.com/nisarnis-prog/Automatic-Printer-Deployment-GPO)
+## <img src="assets/phase2/section.svg" width="32" alt="" /> Featured Projects
 
-[![Free Data Recovery Guides](assets/portfolio/Free-Data-Recovery-Guides.svg)](https://github.com/nisarnis-prog/Free-Data-Recovery-Guides)
+<p align="center"><a href="https://github.com/nisarnis-prog/Local-Admin-GPO-Deployment"><picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/project-Local-Admin-GPO-Deployment-mobile.svg" />
+  <img src="assets/phase2/project-Local-Admin-GPO-Deployment.svg" width="49%" alt="Local Administrator GPO Deployment" />
+</picture></a> <a href="https://github.com/nisarnis-prog/Automatic-Printer-Deployment-GPO"><picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/project-Automatic-Printer-Deployment-GPO-mobile.svg" />
+  <img src="assets/phase2/project-Automatic-Printer-Deployment-GPO.svg" width="49%" alt="Automatic Printer Deployment / GPO" />
+</picture></a></p>
+<p align="center"><a href="https://github.com/nisarnis-prog/AD-M365-User-Onboarding-Toolkit"><picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/project-AD-M365-User-Onboarding-Toolkit-mobile.svg" />
+  <img src="assets/phase2/project-AD-M365-User-Onboarding-Toolkit.svg" width="49%" alt="AD &amp; Microsoft 365 User Onboarding" />
+</picture></a> <a href="https://github.com/nisarnis-prog/Create-Cinematic-Reels-With-Codex"><picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/project-Create-Cinematic-Reels-With-Codex-mobile.svg" />
+  <img src="assets/phase2/project-Create-Cinematic-Reels-With-Codex.svg" width="49%" alt="Create Cinematic Reels With Codex" />
+</picture></a></p>
+<p align="center"><a href="https://github.com/nisarnis-prog/NTFS-Permission-Recovery-Toolkit"><picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/project-NTFS-Permission-Recovery-Toolkit-mobile.svg" />
+  <img src="assets/phase2/project-NTFS-Permission-Recovery-Toolkit.svg" width="49%" alt="NTFS Permission Recovery Toolkit" />
+</picture></a> <a href="https://github.com/nisarnis-prog/Computer-Inventory-Automation-Toolkit"><picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/project-Computer-Inventory-Automation-Toolkit-mobile.svg" />
+  <img src="assets/phase2/project-Computer-Inventory-Automation-Toolkit.svg" width="49%" alt="Computer Inventory Automation Toolkit" />
+</picture></a></p>
+<p align="center"><a href="https://github.com/nisarnis-prog/Free-Data-Recovery-Guides"><picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/project-Free-Data-Recovery-Guides-mobile.svg" />
+  <img src="assets/phase2/project-Free-Data-Recovery-Guides.svg" width="49%" alt="Free Data Recovery Guides" />
+</picture></a> <a href="https://github.com/nisarnis-prog/youtube-mp3-downloader"><picture>
+  <source media="(max-width: 640px)" srcset="assets/phase2/project-youtube-mp3-downloader-mobile.svg" />
+  <img src="assets/phase2/project-youtube-mp3-downloader.svg" width="49%" alt="YouTube MP3 Downloader" />
+</picture></a></p>
 
-[![Computer Inventory Automation Toolkit](assets/portfolio/Computer-Inventory-Automation-Toolkit.svg)](https://github.com/nisarnis-prog/Computer-Inventory-Automation-Toolkit)
-
-[![Local Administrator GPO Deployment](assets/portfolio/Local-Admin-GPO-Deployment.svg)](https://github.com/nisarnis-prog/Local-Admin-GPO-Deployment)
-
-[![NTFS Permission Recovery Toolkit](assets/portfolio/NTFS-Permission-Recovery-Toolkit.svg)](https://github.com/nisarnis-prog/NTFS-Permission-Recovery-Toolkit)
-
-[![AD & Microsoft 365 User Onboarding](assets/portfolio/AD-M365-User-Onboarding-Toolkit.svg)](https://github.com/nisarnis-prog/AD-M365-User-Onboarding-Toolkit)
-
-[![YouTube MP3 Downloader](assets/portfolio/youtube-mp3-downloader.svg)](https://github.com/nisarnis-prog/youtube-mp3-downloader)
-
-[![Create Cinematic Reels With Codex](assets/portfolio/Create-Cinematic-Reels-With-Codex.svg)](https://github.com/nisarnis-prog/Create-Cinematic-Reels-With-Codex)
-
-## Featured Projects
+<details>
+<summary>Featured Projects — detailed project notes</summary>
 
 <table width="100%">
 <tr><td>
@@ -137,9 +183,11 @@ SQL Server · Git · GitHub · Visual Studio · VS Code
 </td></tr>
 </table>
 
-<img src="assets/section-divider.svg" width="1200" alt="" />
+<img src="assets/phase2/divider.svg" width="1200" alt="" />
 
-## GitHub Statistics
+</details>
+
+## <img src="assets/phase2/section.svg" width="32" alt="" /> GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/nisarnis-prog?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisarnis-prog&amp;theme=github_dark&amp;title_color=22D3EE&amp;text_color=F8FAFC&amp;bg_color=0D1117&amp;border_color=101D32&amp;animation=none" width="760" alt="GitHub public contribution activity summary" /></a>
@@ -165,7 +213,7 @@ Public contributions reflect only the work shared on GitHub; professional experi
 
 <sub>External cards may be cached or temporarily unavailable. Direct GitHub links remain available.</sub>
 
-## Professional Links
+## <img src="assets/phase2/section.svg" width="32" alt="" /> Professional Links
 
 **[GitHub / nisarnis-prog →](https://github.com/nisarnis-prog)**
 
@@ -173,6 +221,6 @@ Public contributions reflect only the work shared on GitHub; professional experi
 <!-- TODO: PORTFOLIO_URL — add only an owner-approved public website. -->
 <!-- TODO: CONTACT_EMAIL — publish only after the owner confirms the address is intended for public use. -->
 
-<img src="assets/section-divider.svg" width="1200" alt="" />
+<img src="assets/phase2/divider.svg" width="1200" alt="" />
 
 <p align="center"><sub>Reliable infrastructure. Practical software. Thoughtful automation.</sub></p>
